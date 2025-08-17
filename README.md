@@ -5,4 +5,12 @@ This repository is a learning portfolio showcasing my journey into DevOps. It in
 
 The practise of operations and development engineers working together through the entire service lifecycle,from the design and development process all the way to production support
 
+**STEPS:**
+     Code is created
+     configured
+     opeartes the systems
+     checked into source control
+     Build phase
+     Test phase
+     Deployment
 
