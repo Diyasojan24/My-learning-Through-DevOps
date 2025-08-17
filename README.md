@@ -7,10 +7,16 @@ The practise of operations and development engineers working together through th
 
 **STEPS:**
      Code is created
+     
      configured
+     
      opeartes the systems
+     
      checked into source control
+     
      Build phase
+     
      Test phase
+     
      Deployment
 
