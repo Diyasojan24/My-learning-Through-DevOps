@@ -21,4 +21,10 @@ STEPS:
 
  Deployment
 
+ ## Core values
+
+ **CAMS**:Culture,Automation(CI/CD,IaC),Measurement(metrics,MTTR),Sharing
+
+ 
+
 
